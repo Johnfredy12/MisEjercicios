@@ -1,0 +1,2 @@
+c:\users\formacion\documents\visual studio 2012\Projects\estrucuturaRepititiva_While\estrucuturaRepititiva_While\bin\Debug\estrucuturaRepititiva_While.exe.config
+c:\users\formacion\documents\visual studio 2012\Projects\estrucuturaRepititiva_While\estrucuturaRepititiva_While\obj\Debug\estrucuturaRepititiva_While.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\formacion\documents\visual studio 2012\Projects\respuestausuario\respuestausuario\bin\Debug\respuestausuario.exe.config
+c:\users\formacion\documents\visual studio 2012\Projects\respuestausuario\respuestausuario\obj\Debug\respuestausuario.exe
+c:\users\formacion\documents\visual studio 2012\Projects\respuestausuario\respuestausuario\obj\Debug\respuestausuario.pdb
+c:\users\formacion\documents\visual studio 2012\Projects\respuestausuario\respuestausuario\obj\Debug\respuestausuario.csprojResolveAssemblyReference.cache
+c:\users\formacion\documents\visual studio 2012\Projects\respuestausuario\respuestausuario\bin\Debug\respuestausuario.exe
+c:\users\formacion\documents\visual studio 2012\Projects\respuestausuario\respuestausuario\bin\Debug\respuestausuario.pdb

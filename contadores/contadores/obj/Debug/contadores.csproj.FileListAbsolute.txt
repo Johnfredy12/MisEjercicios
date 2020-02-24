@@ -1,0 +1,6 @@
+c:\users\formacion\documents\visual studio 2012\Projects\contadores\contadores\bin\Debug\contadores.exe.config
+c:\users\formacion\documents\visual studio 2012\Projects\contadores\contadores\bin\Debug\contadores.exe
+c:\users\formacion\documents\visual studio 2012\Projects\contadores\contadores\bin\Debug\contadores.pdb
+c:\users\formacion\documents\visual studio 2012\Projects\contadores\contadores\obj\Debug\contadores.exe
+c:\users\formacion\documents\visual studio 2012\Projects\contadores\contadores\obj\Debug\contadores.pdb
+c:\users\formacion\documents\visual studio 2012\Projects\contadores\contadores\obj\Debug\contadores.csprojResolveAssemblyReference.cache

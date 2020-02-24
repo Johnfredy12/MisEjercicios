@@ -1,0 +1,6 @@
+c:\users\formacion\documents\visual studio 2012\Projects\condicional_ifElse\condicional_ifElse\bin\Debug\condicional_ifElse.exe.config
+c:\users\formacion\documents\visual studio 2012\Projects\condicional_ifElse\condicional_ifElse\bin\Debug\condicional_ifElse.exe
+c:\users\formacion\documents\visual studio 2012\Projects\condicional_ifElse\condicional_ifElse\bin\Debug\condicional_ifElse.pdb
+c:\users\formacion\documents\visual studio 2012\Projects\condicional_ifElse\condicional_ifElse\obj\Debug\condicional_ifElse.csprojResolveAssemblyReference.cache
+c:\users\formacion\documents\visual studio 2012\Projects\condicional_ifElse\condicional_ifElse\obj\Debug\condicional_ifElse.exe
+c:\users\formacion\documents\visual studio 2012\Projects\condicional_ifElse\condicional_ifElse\obj\Debug\condicional_ifElse.pdb

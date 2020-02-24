@@ -1,0 +1,6 @@
+c:\users\formacion\documents\visual studio 2012\Projects\acomuladores\acomuladores\bin\Debug\acomuladores.exe.config
+c:\users\formacion\documents\visual studio 2012\Projects\acomuladores\acomuladores\obj\Debug\acomuladores.csprojResolveAssemblyReference.cache
+c:\users\formacion\documents\visual studio 2012\Projects\acomuladores\acomuladores\bin\Debug\acomuladores.exe
+c:\users\formacion\documents\visual studio 2012\Projects\acomuladores\acomuladores\bin\Debug\acomuladores.pdb
+c:\users\formacion\documents\visual studio 2012\Projects\acomuladores\acomuladores\obj\Debug\acomuladores.exe
+c:\users\formacion\documents\visual studio 2012\Projects\acomuladores\acomuladores\obj\Debug\acomuladores.pdb

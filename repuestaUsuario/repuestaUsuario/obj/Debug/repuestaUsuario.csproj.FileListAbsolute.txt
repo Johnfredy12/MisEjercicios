@@ -1,0 +1,5 @@
+c:\users\formacion\documents\visual studio 2012\Projects\repuestaUsuario\repuestaUsuario\bin\Debug\repuestaUsuario.exe.config
+c:\users\formacion\documents\visual studio 2012\Projects\repuestaUsuario\repuestaUsuario\obj\Debug\repuestaUsuario.exe
+c:\users\formacion\documents\visual studio 2012\Projects\repuestaUsuario\repuestaUsuario\obj\Debug\repuestaUsuario.pdb
+c:\users\formacion\documents\visual studio 2012\Projects\repuestaUsuario\repuestaUsuario\bin\Debug\repuestaUsuario.exe
+c:\users\formacion\documents\visual studio 2012\Projects\repuestaUsuario\repuestaUsuario\bin\Debug\repuestaUsuario.pdb
