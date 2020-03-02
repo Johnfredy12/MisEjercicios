@@ -1,0 +1,6 @@
+E:\Adsi-1961869\Projects\funcion parametro con retorno\funcion parametro con retorno\bin\Debug\funcion parametro con retorno.exe.config
+E:\Adsi-1961869\Projects\funcion parametro con retorno\funcion parametro con retorno\obj\Debug\funcion parametro con retorno.csprojResolveAssemblyReference.cache
+E:\Adsi-1961869\Projects\funcion parametro con retorno\funcion parametro con retorno\bin\Debug\funcion parametro con retorno.exe
+E:\Adsi-1961869\Projects\funcion parametro con retorno\funcion parametro con retorno\bin\Debug\funcion parametro con retorno.pdb
+E:\Adsi-1961869\Projects\funcion parametro con retorno\funcion parametro con retorno\obj\Debug\funcion parametro con retorno.exe
+E:\Adsi-1961869\Projects\funcion parametro con retorno\funcion parametro con retorno\obj\Debug\funcion parametro con retorno.pdb

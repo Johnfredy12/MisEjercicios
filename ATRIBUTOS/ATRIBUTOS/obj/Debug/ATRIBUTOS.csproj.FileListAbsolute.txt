@@ -1,0 +1,6 @@
+E:\Adsi-1961869\Projects\ATRIBUTOS\ATRIBUTOS\bin\Debug\ATRIBUTOS.exe.config
+E:\Adsi-1961869\Projects\ATRIBUTOS\ATRIBUTOS\obj\Debug\ATRIBUTOS.csprojResolveAssemblyReference.cache
+E:\Adsi-1961869\Projects\ATRIBUTOS\ATRIBUTOS\bin\Debug\ATRIBUTOS.exe
+E:\Adsi-1961869\Projects\ATRIBUTOS\ATRIBUTOS\bin\Debug\ATRIBUTOS.pdb
+E:\Adsi-1961869\Projects\ATRIBUTOS\ATRIBUTOS\obj\Debug\ATRIBUTOS.exe
+E:\Adsi-1961869\Projects\ATRIBUTOS\ATRIBUTOS\obj\Debug\ATRIBUTOS.pdb
